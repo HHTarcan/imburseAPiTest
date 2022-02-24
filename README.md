@@ -8,4 +8,4 @@ download the project and run command:
 $ mvn clean install
 
 Report
-index.html in Target/cucmberreports
+index.html in Target/cucumber-reports
